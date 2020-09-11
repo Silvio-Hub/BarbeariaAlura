@@ -1,2 +1,4 @@
-# BarbeariaAlura
-Um site da barbearia alura.
+# Barbearia Alura
+## Um site da barbearia alura.
+
+**Curso com o professor Pedro Marins**
